@@ -52,7 +52,7 @@ export type Education = {
 
 export const profile = {
   // ── Identity ────────────────────────────────────────────────
-  name: "Umar 1", // TODO: your full name
+  name: "Umar", // TODO: your full name
   initials: "U", // TODO: 1–2 letters shown in the nav badge
   roles: [
     "Machine Learning Engineer",
